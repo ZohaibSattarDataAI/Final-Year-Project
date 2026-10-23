@@ -655,11 +655,9 @@ as a persistent Hugging Face cache so downloaded model weights do not need to be
 ## Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/voiceforge-ai-studio.git
-cd voiceforge-ai-studio
+git clone https://github.com/ZohaibSattarDataAI/Final-Year-Project.git
+cd Final-Year-Project
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ---
 
